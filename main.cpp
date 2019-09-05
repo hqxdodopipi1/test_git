@@ -10,7 +10,10 @@ using namespace std;
 
 int main(int argc, const char *argv[]) 
 {
+<<<<<<< HEAD
     cout << "test" << endl; 
 
+=======
+>>>>>>> parent of c2358ad... modify main
     return 0; 
 }
